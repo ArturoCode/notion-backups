@@ -103,4 +103,4 @@ Una vez hecho el proceso puedes volver a la página del proyecto que has creado 
 Ya no te tienes que preocupar de problemas con Notion y su nube. Puedes importar tu contenido en caso de que lo hubiera gracias a estos backups automatizados. 
 
 
-###¡Espero haberte ayudado! Si te ha servido de ayuda, puedes [invitarme a un café](https://www.buymeacoffee.com/arturocode). ¡Te lo agradecería mucho!
+### ¡Espero haberte ayudado! Si te ha servido de ayuda, puedes [invitarme a un café](https://www.buymeacoffee.com/arturocode). ¡Te lo agradecería mucho!
